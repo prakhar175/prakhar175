@@ -25,12 +25,11 @@
 
 
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=prakhar175&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="prakhar175" />
-</p>
-<p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar175&theme=dark" alt="prakhar175" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar175&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="prakhar175" />
-</p>
+<div align="center" style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=prakhar175&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="prakhar175" style="width: 45%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar175&theme=dark" alt="prakhar175" style="width: 45%; height: auto; margin-left: 10px;" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar175&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="prakhar175" style="width: 50%;" />
+</div>
