@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar175&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar175" /> </p>
 
-- 🌱 I’m currently learning **Android Development, Machine Learning and GoLang**
+- 🌱 I’m currently learning **Android Development, Machine Learning and exploring AI world**
 
-- 💬 Ask me about **Python, App dev and OOPs**
+- 💬 Ask me about **Python, App dev and ML**
 
 - 📫 How to reach me **prakhar.k2004@gmail.com**
 <div align="left">
