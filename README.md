@@ -54,11 +54,13 @@
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=prakhar175&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="prakhar175" style="max-width: 45%; height: auto;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar175&theme=dark" alt="prakhar175" style="max-width: 45%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=prakhar175&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="prakhar175" style="max-width: 40%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar175&theme=dark" alt="prakhar175" style="max-width: 40%; height: auto;" />
 </div>
 
 <div align="center" style="margin-top: 20px; width: 100%; max-width: 800px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar175&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="prakhar175" style="width: 200%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar175&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="prakhar175" style="max-width: 60%; height: auto;" />
 </div>
+
+
 
