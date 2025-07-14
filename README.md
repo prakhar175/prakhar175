@@ -2,13 +2,13 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="650" />
 </div>
 <h1 align="center">Hi 👋, I'm Prakhar Kothari</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar175&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar175" /> </p>
 
-- 🌱 I’m currently learning **Android Development, Machine Learning and exploring AI world**
+- 🌱 I’m currently learning **Computer Vision, Generative AI and exploring other part of AI world**
 
-- 💬 Ask me about **Python, App dev and ML**
+- 💬 Ask me about **Python, App dev and AI**
 
 - 📫 How to reach me **prakhar.k2004@gmail.com**
 <div align="left">
