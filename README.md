@@ -25,9 +25,9 @@
 
 | **Achievement** | **When** | **Contribution / Outcome** |
 |:----------------:|:--------:|:--------------------------:|
-| 🥇 **Winner @ IIT Roorkee Case-Study based Hackathon** | 2025 | -- |
+| 🥇 **Winner @ IIT Roorkee Case-Study based Hackathon** | 2025 | Designed an app prototype on the theme of sustainability using Figma |
 | 🥈 **2nd Rank @ IIT Roorkee Paycrypt AI Hackathon** | 2025 | Built a custom Yolo model to count vehicles, identify free lanes at Toll-plaza and analysis of Bengaluru traffic via data given |
-| 🥉 **2nd Runner-up @ IIM Indore IRIS Hackathon** | 2025 | Kiosk for villagers for health check-up via AI powered model to predict skin diseases + fine-tuned chatbot for any medical query with interface for dispensary |
+| 🥉 **2nd Runner-up @ IIM Indore IRIS Hackathon** | 2025 | Kiosk for villagers for health check-up via AI powered model to predict skin diseases + fine-tuned chatbot for any medical query|
 | 🏅 **Finalist (Top 5) @ IIIT Gwalior Tech Hackathon** | 2024 | Website to assist farmers with prediction model for best months to yield what crops and custom chat space for them |
 | 🏅 **3rd Runner-up @ IIT Bombay (e-Yantra) National Robotics Competition** | 2020 | Designed a line-following robot using Arduino and IR sensors to detect and follow a black path |
 
