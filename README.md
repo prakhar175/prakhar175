@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar175&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar175" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Generative AI and exploring other part of AI world**
+- 🌱 Building applied AI solutions in **NLP, RAG, Computer Vision and LLM fine-tuning**
 
-- 💬 Ask me about **Python, App dev and AI**
+- 💬 Open for research and collaboration in **multimodal** and **NLP** field
 
 - 📫 How to reach me **prakhar.k2004@gmail.com**
 <div align="left">
