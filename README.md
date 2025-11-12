@@ -11,6 +11,8 @@
 - 💬 Open for research and collaboration in **multimodal** and **NLP** field
 
 - 📫 How to reach me **prakhar.k2004@gmail.com**
+
+- 🌐 Portfolio: <a href="https://prakhar175.github.io/prakhar-portfolio/" target="_blank">Prakhar-portfolio</a>
 <div align="left">
 <a href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></a>
 <h3 align="left">Connect with me:</h3>
